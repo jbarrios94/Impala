@@ -1,0 +1,1 @@
+"%cd%\JRE\bin\java.exe" -jar "app.jar"
